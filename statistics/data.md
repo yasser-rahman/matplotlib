@@ -20,18 +20,14 @@ This data type has no numerical value and sometimes is called qualitative data t
 
 ## Level of Measurements
 
+![](../.gitbook/assets/1%20%284%29.jpg)
+
   
- There are four levels of data measurement: nominal,
+ 
 
-ordinal, interval, and ratio.
+**•** **Nomianl:**Things like favorite food, colors, names, and “yes” or “no”
 
-**•** Things like favorite food, colors, names, and “yes” or “no”
-
-responses have a **nominal** scale of measurement. Only categorical
-
-data can be measured with a nominal scale.
-
-**•** Categorial data can also be **ordinal**. This type of data can be
+**•** O**rdinal**. This type of data can be
 
 ordered. The top three national parks in California is an example of ordinal data. Or, for example, when we ask a group of people
 
@@ -41,19 +37,9 @@ about how they liked their trip, we may get responses like
 
 order from best to worst.
 
-**•** Data measured using an **interval** scale can be ordered like ordinal
+**•** **Interval** scale can be ordered like ordinal data. But interval data also gives us a known interval between measurements. For example, temperature is measured using an interval scale, because we can understand the exact interval of difference between 50 and 60 degrees.
 
-data. But interval data also gives us a known interval between
-
-measurements. For example, temperature is measured using an
-
-interval scale, because we can understand the exact interval of
-
-difference between 50 and 60 degrees.
-
-**•** Data measured using a **ratio** scale is just like interval scale data,
-
-except that ratio scale data has a starting point, or absolute zero.
+**•** **Ratio** scale is just like interval scale data, except that ratio scale data has a starting point, or absolute zero.
 
 Whereas interval data like temperature can have negative and
 
