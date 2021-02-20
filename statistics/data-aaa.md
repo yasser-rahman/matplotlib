@@ -36,3 +36,7 @@ It's a special kind of line graph. You can think of it as an accumulated line gr
 
 ![](../.gitbook/assets/3.jpg)
 
+## Dot Chart
+
+![Vehicles Types in Parking](../.gitbook/assets/1%20%2811%29.jpg)
+
