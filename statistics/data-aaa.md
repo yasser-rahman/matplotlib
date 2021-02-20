@@ -1,8 +1,8 @@
 ---
-description: Basic concepts about data
+description: Univariate Categorical data Visualization
 ---
 
-# Data Visualization
+# Categorical Data Visualization
 
 ## Bar Chart and Pie Chart
 
