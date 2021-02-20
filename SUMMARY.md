@@ -5,5 +5,5 @@
 ## Statistics
 
 * [Chart Types](statistics/data-aaa.md)
-* [Data](statistics/data.md)
+* [Data Classification](statistics/data.md)
 

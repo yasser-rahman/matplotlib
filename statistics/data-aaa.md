@@ -8,7 +8,7 @@ description: Basic concepts about data
 
 This type of charts is used to visualize the nominal data types \(categorical data types\) by constructing a frequency table at the beginning. Each category frequency will be presented as a single bar.
 
-![host contenets for the summer Olympic games](../.gitbook/assets/1%20%285%29.jpg)
+![Olymic games host by contenent](../.gitbook/assets/1%20%285%29.jpg)
 
 The same information could be visualized as a pie chart:
 
