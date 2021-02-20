@@ -2,7 +2,7 @@
 description: Basic concepts about data
 ---
 
-# Chart Types
+# Data Visualization
 
 ## Bar Chart and Pie Chart
 
