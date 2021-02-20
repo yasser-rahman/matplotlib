@@ -38,7 +38,7 @@ It's a special kind of line graph. You can think of it as an accumulated line gr
 
 ## Dot Chart
 
-![Vehicles Types in Parking](../.gitbook/assets/1%20%2814%29.jpg)
+![Vehicles Types in Parking](../.gitbook/assets/1%20%2815%29.jpg)
 
 ![Dot Chart for Vehicles Types in Parking](../.gitbook/assets/2%20%282%29.jpg)
 
