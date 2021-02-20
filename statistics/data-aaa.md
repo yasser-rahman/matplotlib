@@ -40,3 +40,5 @@ It's a special kind of line graph. You can think of it as an accumulated line gr
 
 ![Vehicles Types in Parking](../.gitbook/assets/1%20%2811%29.jpg)
 
+![Dot Chart for Vehicles Types in Parking](../.gitbook/assets/2%20%281%29.jpg)
+
