@@ -47,7 +47,7 @@ positive values, things like time, height, and weight are examples
 
 of ratio scale data because those measures can never be negative.
 
-
+> Just remeber that for ratio data measurement allows us to compare ratios between two individuals. like Sam is almost 1.2 taller than Hans.
 
 
 
