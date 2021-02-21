@@ -24,13 +24,13 @@ The same information could be visualized as a pie chart:
 
 ![Average High Temprature vr Month](../.gitbook/assets/1%20%284%29.jpg)
 
-![Line Chart for Average High Temprature in Arizona](../.gitbook/assets/1%20%2811%29.jpg)
+![Line Chart for Average High Temprature in Arizona](../.gitbook/assets/1%20%2812%29.jpg)
 
 ## Ogive Line Chart
 
 It's a special kind of line graph. You can think of it as an accumulated line graph. it's very adequate for some types of data visualization like an accumulated investment over time.
 
-![Invetment Over Age](../.gitbook/assets/1%20%289%29.jpg)
+![Invetment Over Age](../.gitbook/assets/1%20%2810%29.jpg)
 
 ![Adding the accululated Investment Column](../.gitbook/assets/2.jpg)
 
@@ -38,7 +38,7 @@ It's a special kind of line graph. You can think of it as an accumulated line gr
 
 ## Dot Chart
 
-![Vehicles Types in Parking](../.gitbook/assets/1%20%2815%29.jpg)
+![Vehicles Types in Parking](../.gitbook/assets/1%20%2816%29.jpg)
 
 ![Dot Chart for Vehicles Types in Parking](../.gitbook/assets/2%20%282%29.jpg)
 

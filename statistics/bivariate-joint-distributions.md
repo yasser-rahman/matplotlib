@@ -14,7 +14,7 @@ A joint distribution is a table of percentages similar to a relative frequency t
 
 Think of a marginal distribution as the Total column or the Total row in this joint distribution. It’s like only having one of the distributions, not both. So if we only had the distribution of weight lost, we’d have just the totals along the bottom of the table.
 
-![Marginal Distributions of both Hours Exercising and Weight Loss](../.gitbook/assets/1%20%2816%29.jpg)
+![Marginal Distributions of both Hours Exercising and Weight Loss](../.gitbook/assets/1%20%2817%29.jpg)
 
 ![Marginal Distributions of both Hours Exercising and Weight Loss](../.gitbook/assets/1%20%283%29.jpg)
 
