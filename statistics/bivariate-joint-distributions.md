@@ -14,15 +14,15 @@ A joint distribution is a table of percentages similar to a relative frequency t
 
 Think of a marginal distribution as the Total column or the Total row in this joint distribution. It’s like only having one of the distributions, not both. So if we only had the distribution of weight lost, we’d have just the totals along the bottom of the table.
 
-![Marginal Distributions of both Hours Exercising and Weight Loss](../.gitbook/assets/1%20%2817%29.jpg)
+![Marginal Distributions of both Hours Exercising and Weight Loss](../.gitbook/assets/1%20%2818%29.jpg)
 
-![Marginal Distributions of both Hours Exercising and Weight Loss](../.gitbook/assets/1%20%283%29.jpg)
+![Marginal Distributions of both Hours Exercising and Weight Loss](../.gitbook/assets/1%20%284%29.jpg)
 
 ## Conditional Distribution
 
 Think of a conditional distribution as the distribution of one variable, given a particular value of the other variable. For example, we could look at the conditional distribution of weight lost, given a particular amount of hours spent exercising:
 
-![Conditional Distribution of Weight Loss Given Hour Exercising of 3 - 6](../.gitbook/assets/1%20%287%29.jpg)
+![Conditional Distribution of Weight Loss Given Hour Exercising of 3 - 6](../.gitbook/assets/1%20%288%29.jpg)
 
 Or, we can look at the conditional distribution of Hours Exercising, given a particular amount of Weight Loss.
 
