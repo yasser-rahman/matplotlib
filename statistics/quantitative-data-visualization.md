@@ -12,7 +12,7 @@ A histogram is just like a bar graph, except that we collect the data into bucke
 
 ![The Box- and-whisker plot](../.gitbook/assets/1%20%2821%29.jpg)
 
-## The Five-number   Summary
+## The Five-number Summary
 
 The five-number summary, also called the five-figure summary, for any set of data will include the minimum and maximum values, the median, and Q1 and Q3 for the data set.
 
