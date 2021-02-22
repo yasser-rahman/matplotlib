@@ -5,6 +5,7 @@
 ## Statistics
 
 * [Data Classification](statistics/data.md)
+* [Data Measurements Levels](statistics/data-measurements-levels.md)
 * [Categorical Data Visualization](statistics/data-aaa.md)
 * [Quantitative Data Visualization](statistics/quantitative-data-visualization.md)
 * [Measures of Central Tendency](statistics/measures-of-central-tendency.md)
