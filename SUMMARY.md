@@ -12,4 +12,5 @@
 * [Measures of Spread](statistics/measures-of-spread.md)
 * [Shifting and Scaling of A dataset](statistics/shifting-and-scaling-of-a-dataset.md)
 * [Bivariate Joint Distributions](statistics/bivariate-joint-distributions.md)
+* [Data Distibution](statistics/data-distibution.md)
 
