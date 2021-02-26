@@ -12,5 +12,5 @@ A population is the entire group of subjects that we’re interested in. The pop
 
 A sample is just a subsection of the population. The sample has n subjects.
 
-![](../.gitbook/assets/1%20%2822%29.jpg)
+![Mean, Variance, and Standard Deviation Formulas](../.gitbook/assets/1%20%2823%29.jpg)
 
