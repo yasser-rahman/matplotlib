@@ -12,11 +12,11 @@ A population is the entire group of subjects that we’re interested in. The pop
 
 A sample is just a subsection of the population. The sample has n subjects.
 
-![Mean, Variance, and Standard Deviation Formulas](../.gitbook/assets/1%20%2824%29.jpg)
+![Mean, Variance, and Standard Deviation Formulas](../.gitbook/assets/1%20%2825%29.jpg)
 
 ### Absolute Frequency Histogram
 
-![Distibution is depicted using finite number of bins](../.gitbook/assets/1%20%2823%29.jpg)
+![Distibution is depicted using finite number of bins](../.gitbook/assets/1%20%2824%29.jpg)
 
 ### Relative Frequency Histogram
 
@@ -34,5 +34,7 @@ The summation of all values would sum up to 100%
 
 ![Density curve with infinite number of bins. Total area under the curve is 1.](../.gitbook/assets/5.jpg)
 
+### Symmetric distributions
 
+![](../.gitbook/assets/1%20%2823%29.jpg)
 
