@@ -38,3 +38,7 @@ The summation of all values would sum up to 100%
 
 ![](../.gitbook/assets/1%20%2823%29.jpg)
 
+In symmetric distributions: mean, median and mode are at the very center of the data.
+
+
+
