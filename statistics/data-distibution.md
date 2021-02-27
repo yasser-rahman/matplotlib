@@ -28,7 +28,11 @@ The summation of all values would sum up to 100%
 
 ![](../.gitbook/assets/3%20%281%29.jpg)
 
-![](../.gitbook/assets/4.jpg)
+![Frequency polygon with finite number of bins](../.gitbook/assets/4.jpg)
+
+### Density Function
+
+![Density curve with infinite number of bins. Total area under the curve is 1.](../.gitbook/assets/5.jpg)
 
 
 
