@@ -12,11 +12,11 @@ A population is the entire group of subjects that we’re interested in. The pop
 
 A sample is just a subsection of the population. The sample has n subjects.
 
-![Mean, Variance, and Standard Deviation Formulas](../.gitbook/assets/1%20%2826%29.jpg)
+![Mean, Variance, and Standard Deviation Formulas](../.gitbook/assets/1%20%2827%29.jpg)
 
 ### Absolute Frequency Histogram
 
-![Distibution is depicted using finite number of bins](../.gitbook/assets/1%20%2825%29.jpg)
+![Distibution is depicted using finite number of bins](../.gitbook/assets/1%20%2826%29.jpg)
 
 ### Relative Frequency Histogram
 
@@ -47,4 +47,12 @@ In symmetric distributions: mean, median and mode are at the very center of the 
 ### Right-skewed distribution
 
 ![](../.gitbook/assets/2%20%283%29.jpg)
+
+Mode at the peak. Median divides area 50% to right and 50% to left. mean is shifted a little bit towards outliers.
+
+
+
+### Outliers rules
+
+![](../.gitbook/assets/1%20%2825%29.jpg)
 
