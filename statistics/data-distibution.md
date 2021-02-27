@@ -22,5 +22,13 @@ A sample is just a subsection of the population. The sample has n subjects.
 
 ![The relative \(to the grand total\) distribution is depcted with finite number of bins](../.gitbook/assets/2%20%283%29.jpg)
 
+The summation of all values would sum up to 100%
+
+### Frequency Polygons
+
+![](../.gitbook/assets/3%20%281%29.jpg)
+
+![](../.gitbook/assets/4.jpg)
+
 
 
