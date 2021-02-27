@@ -56,3 +56,9 @@ Mode at the peak. Median divides area 50% to right and 50% to left. mean is shif
 
 ![](../.gitbook/assets/1%20%2825%29.jpg)
 
+For symmetric data, mean and std are the best measures. While for skewed data, median and IQR are the best measures.  
+Low outliers: Q1 - 1.5 \(IQR\)  
+High outliers: Q3 + 1.5 \(IQR\)
+
+
+
